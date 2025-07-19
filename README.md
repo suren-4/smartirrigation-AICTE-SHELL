@@ -1,0 +1,2 @@
+# smartirrigation-AICTE-SHELL
+INTERNSHIP
